@@ -178,8 +178,8 @@ if __name__ == "__main__":
     print("Starting ESP32 Object Detector...")
 
     
-    CAMERA_URL = "http://192.168.137.71/stream"  # ESP32-CAM stream URL
-    MODEL_PATH = r"D:\\Airost Intership Project 1\\Object_Detection\\train3-20241127T091036Z-001\\train3\\weights\\best.pt"
+    CAMERA_URL = "http://#url#/stream"  # ESP32-CAM stream URL
+    MODEL_PATH = r"D:\\Airost Intership Project\\Object_Detection\\train3\\best.pt"
     DB_CONFIG = {
         'host': 'localhost',
         'user': 'root',

@@ -17,7 +17,7 @@ The detection results are accessible via a web interface.
 ## **Requirements**
 
 ### **Hardware**
-1. **ESP32-CAM module** (at least 1; up to 3 recommended for multi-camera setups).
+1. **ESP32-CAM module**.
 2. **Laptop or desktop computer**.
 
 ### **Software**

@@ -36,4 +36,10 @@ The detection results are accessible via a web interface.
 
 ### **2. Download All required files above and save in the same directory
 
-### **3. Put the file of index.php, db.php and style.css in htdocs directory in XAMPP.
+### **3. Put the folder of object_detection_website in htdocs directory in XAMPP.
+
+### **4. Run the Program and check the data in the link of http://localhost/object_detection_website/index.php
+
+##Thats it! Feel free to contact me if any mistaken. TQVM
+
+
